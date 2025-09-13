@@ -218,11 +218,9 @@ El proyecto incorpora una narrativa cohesiva que incluye:
 Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
 
 ## 👨‍💻 Autor
+-JJdev ❤️🎯🚀
 
-**Tu Nombre**
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
-- LinkedIn: [Tu Perfil](https://linkedin.com/in/tu-perfil)
-- Email: tu.email@ejemplo.com
+
 
 ## 🙏 Agradecimientos
 
@@ -233,13 +231,6 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para má
 
 ---
 
-<div align="center">
-
-**¿Te gustó el proyecto? ¡Dale una ⭐ al repositorio!**
-
-[🚀 Ver Demo en Vivo](#) | [📝 Documentación Completa](#) | [🐛 Reportar Bug](https://github.com/tu-usuario/fcPost/issues)
-
-</div>
 
 ---
 
